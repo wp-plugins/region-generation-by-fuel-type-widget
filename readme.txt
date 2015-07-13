@@ -1,8 +1,8 @@
 === Australian Live Generation By Fuel Type Widget ===
 Contributors: global-roam
-Tags: generation, electricity, nem
-Requires at least: 3.0.1
-Tested up to: 3.4
+Tags: generation, electricity, energy, nem, solar, australia, coal, pv
+Requires at least: 3.2
+Tested up to: 4.2.2
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -21,14 +21,17 @@ Australian Photovoltaic Institute (APVI).
 The widget also shows data for the South-West Interconnected System (SWIS) in Western Australia using data 
 published by the Independent Market Operator (IMO-WA). 
 
+If you don't already have an API key you can get one [here](http://widgets.global-roam.com/EmbedInstructions). Move your mouse over the widget and click the **EMBED** button.
+
 == Installation ==
 
-You should have received an email with a link to embedding instructions. Please follow those instructions
-to get your API key.
+If you have already received an email with a link to the embedding instructions, please follow them to find your API key.
 
 1. Install the plugin as usual
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Place `[region-generation-by-fuel-type-widget token="your-api-token"]` on your page
+
+If you don't already have an API key you can get one [here](http://widgets.global-roam.com/EmbedInstructions). Move your mouse over the widget and click the **EMBED** button.
 
 == Screenshots ==
 
